@@ -19,10 +19,6 @@ graph TD;
 
 🔧 Como Executar o Projeto
 
-Clone o repositório:
-
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-
 Acesse a pasta do projeto:
 
 cd SEU_REPOSITORIO
